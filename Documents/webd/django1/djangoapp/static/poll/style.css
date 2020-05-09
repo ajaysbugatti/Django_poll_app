@@ -1,0 +1,18 @@
+body {
+    background-color: whitesmoke;
+  }
+  b {
+    color: blue;
+  }
+  p {
+    color: red;
+  }
+  form
+  {
+      color: teal;
+      font: 1em sans-serif;
+      
+  }
+  /* body {
+    background: white url("images/background.gif") no-repeat;
+} */
